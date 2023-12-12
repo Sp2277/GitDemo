@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/cssparser-0.9.14.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/ExcelReportGenerator-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/extentreports-4.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/htmlunit-2.15.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/htmlunit-core-js-2.15.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/httpmime-4.3.6.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/jansi-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/jansi-1.4.jar.zip"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/javax.mail-api-1.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/jetty-websocket-8.1.8.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/jna-3.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/jna-platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/jquery-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/jxl.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/nekohtml-1.9.21.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/operadriver-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/poi-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/poi-examples-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/poi-excelant-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/poi-ooxml-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/poi-ooxml-schemas-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/poi-scratchpad-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/selenium-java-2.45.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/selenium-java-2.45.0-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/sqljdbc.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/sqljdbc4-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/sqljdbc41.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/testng-6.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/testng-6.13.1.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/testng-6.14.2.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/testng-6.14.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/testng-7.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="D:/MyInsider Automation Testing/All_Jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
