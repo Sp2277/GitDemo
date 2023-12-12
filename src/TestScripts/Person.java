@@ -14,6 +14,7 @@ public class Person extends Vigilante_Admin{
 			String FirstName, String Surname, String EmailAddress, String PhoneNumber,String PersonCategory, String CompanyName, String CompanyAddress, String IdentificationNumber,
 			String UserName) throws Exception
 	{	
+System.out.println("GIT Changes");
 		Thread.sleep(2000);
 		driver.findElement(By.xpath("//a[normalize-space()='(Change)']")).click();
 		Thread.sleep(2000);
